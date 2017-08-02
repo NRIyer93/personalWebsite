@@ -1,5 +1,27 @@
-.homeimage {
 
-	max-width: 100%;
-	margin: auto;
+#container {
+
+	margin: 0 auto;
+
+}
+
+
+.jumbotron {
+
+	max-width: 100vw;
+}
+
+
+.homeimage img {
+
+	margin: 0 auto;
+	max-width: 100vw;
+	max-height: 100vh;
+	display: inline-block;
+
+}
+
+.AboutMe h2 {
+
+	font-style: italic;
 }
