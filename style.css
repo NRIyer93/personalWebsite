@@ -1,7 +1,12 @@
 
+body {
+
+	/*background-image: url("websiteImg/leesunset.JPG");*/
+}
 #homecontainer {
 
 	margin: 0 auto;
+
 
 }
 
@@ -9,6 +14,7 @@
 .jumbotron {
 
 	max-width: 100vw;
+	background-image: url("websiteImg/leesunset.JPG");
 }
 
 
@@ -39,9 +45,19 @@
 	/*margin: 0 auto;*/
 	/*max-width: 32vw;*/
 	height: 250px;
+	/*background-color: #4B3B40;*/
 
 
 }
 
+header {
+
+	background-color: #82735C;
+}
+
+main {
+
+	background-color: #4B3B40;
+}
 
 
