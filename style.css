@@ -1,5 +1,5 @@
 
-#container {
+#homecontainer {
 
 	margin: 0 auto;
 
@@ -15,13 +15,33 @@
 .homeimage img {
 
 	margin: 0 auto;
-	max-width: 100vw;
+	max-width: 90vw;
 	max-height: 100vh;
 	display: inline-block;
+
 
 }
 
 .AboutMe h2 {
 
-	font-style: italic;
+	font-style: italic bold;
 }
+
+.center {
+
+	text-align: center;
+} 
+
+
+
+.photos{
+
+	/*margin: 0 auto;*/
+	/*max-width: 32vw;*/
+	height: 250px;
+
+
+}
+
+
+
