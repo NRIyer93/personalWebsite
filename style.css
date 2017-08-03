@@ -50,6 +50,11 @@ body {
 	text-align: center;
 } 
 
+.container3 img {
+
+	margin: auto;
+}
+
 
 
 
@@ -80,5 +85,4 @@ footer {
 	color: #66B3BA;
 
 }
-
 
