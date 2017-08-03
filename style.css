@@ -2,6 +2,7 @@
 body {
 
 	/*background-image: url("websiteImg/leesunset.JPG");*/
+
 }
 #homecontainer {
 
@@ -55,16 +56,13 @@ body {
 	margin: auto;
 }
 
-
-
-
 .photos{
 
 	/*margin: 0 auto;*/
 	/*max-width: 32vw;*/
 	height: 250px;
 	/*background-color: #4B3B40;*/
-
+	margin: auto;
 
 }
 
